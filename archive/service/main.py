@@ -10,7 +10,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 
-Web_Scraper = {}
+BIS_GEAR_FINDER = {}
 
 # Configure Firefox profile with custom preferences
 firefox_profile = FirefoxProfile()

@@ -1,0 +1,5 @@
+# Interface: 
+# Title: BiSGearFinder
+# Version: 0.0.1
+# Author: Nessima Skye
+# SavedVariables: BIS_GEAR_FINDER
