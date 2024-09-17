@@ -156,3 +156,4 @@ cython_debug/
 
 # IDE related files
 .vscode
+.vscode/settings.json
