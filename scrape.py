@@ -20,6 +20,7 @@ def scrape_website(website: str):
     print("Launching Chrome browser")
 
     options = webdriver.FirefoxOptions()
+    options.add_argument("-headless")
     driver = webdriver.Firefox(options=options)
 
     try:
