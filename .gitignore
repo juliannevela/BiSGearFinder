@@ -156,3 +156,6 @@ cython_debug/
 
 # IDE related files
 .vscode
+
+# Libs for WoW AddOn
+./GearWise/Libs
